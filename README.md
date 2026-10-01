@@ -1,4 +1,4 @@
-# biostats_intro
+# biostats_intro class
 
-# hello world
+hello world
 
